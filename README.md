@@ -20,7 +20,6 @@ Iris is a flowering plant genus of 310 accepted species with showy flowers. As w
 * Seaborn for data visualization
 * Numpy for array-wise operations
 <br>
-
 <h3>Used Machine Learning Models</h3>
 
 * Linear Regression
