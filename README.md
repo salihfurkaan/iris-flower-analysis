@@ -26,6 +26,7 @@ Iris is a flowering plant genus of 310 accepted species with showy flowers. As w
 * Logistic Regression
 * Decision Tree
 * Support Vector Machines
+* Random Forest
 <br>
 
 <h3>Plots</h3>
@@ -35,6 +36,8 @@ Iris is a flowering plant genus of 310 accepted species with showy flowers. As w
 ![petal](https://github.com/salihfurkaan/iris-flower-analysis/assets/119700956/3271bf95-fa41-4849-8009-08828d333176)
 <br>
 ![lr](https://github.com/salihfurkaan/iris-flower-analysis/assets/119700956/bdfa399d-c0d3-4932-a5e0-abace0af6854)
+![random_forest](https://github.com/salihfurkaan/iris-flower-analysis/assets/119700956/170931c0-bef2-4759-9e24-f2714fc789d4)
+
 ![pp](https://github.com/salihfurkaan/iris-flower-analysis/assets/119700956/466a6f2c-5236-4202-a79f-b7ccea71ba8b)
 
 ![decision_tree](https://github.com/salihfurkaan/iris-flower-analysis/assets/119700956/009d7f62-36bc-4211-b066-3030d9666348)
